@@ -1,5 +1,9 @@
 # ProjetoDome
 
+Este é um projeto da Dome, desenvolvido por
+Vinicios e Vitor, Com o objetivo de desenvolver
+uma aplicação Timeshet.
+
 # Tipo da Aplicação
 Web
 
@@ -8,10 +12,8 @@ Python Com Biblioteca Django
 HTML5
 CSS3
 
-#Banco de Dados
+# Banco de Dados
 MySQL
-
-#----------------------
 
 Teremos que aprender o front-end
 com HTML e CSS e a biblioteca do
