@@ -2,7 +2,7 @@
 
 Este é um projeto da Dome, desenvolvido por
 Vinicios e Vitor, Com o objetivo de desenvolver
-uma ampla aplicação Timeshet.
+uma ampla aplicação Timesheet.
 
 # Tipo da Aplicação
 - Web
