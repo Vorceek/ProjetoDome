@@ -2,18 +2,18 @@
 
 Este é um projeto da Dome, desenvolvido por
 Vinicios e Vitor, Com o objetivo de desenvolver
-uma aplicação Timeshet.
+uma ampla aplicação Timeshet.
 
 # Tipo da Aplicação
-Web
+- Web
 
 # Ferramentas Utilizadas
-Python Com Biblioteca Django
-HTML5
-CSS3
+- Python Com Biblioteca Django
+- HTML5
+- CSS3
 
 # Banco de Dados
-MySQL
+- MySQL
 
 Teremos que aprender o front-end
 com HTML e CSS e a biblioteca do
