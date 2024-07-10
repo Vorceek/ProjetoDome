@@ -13,7 +13,7 @@ uma ampla aplicação Timesheet.
 - CSS3
 
 # Banco de Dados
-- MySQL
+- Microsoft SQL Server
 
 Teremos que aprender o front-end
 com HTML e CSS e a biblioteca do
