@@ -1,0 +1,23 @@
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.primeiraDiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
+
+.segundaDiv {
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.imagem {
+    margin-left: 12px;
+    height: 70px;
+}
