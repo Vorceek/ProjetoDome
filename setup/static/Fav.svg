@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <clipPath id="clip-Fav">
+      <rect width="256" height="256"></rect>
+    </clipPath>
+  </defs>
+  <g id="Fav" clip-path="url(#clip-Fav)">
+    <rect id="Retângulo_3108" data-name="Retângulo 3108" width="256" height="256" rx="52" fill="#fff"></rect>
+    <g id="Grupo_5752" data-name="Grupo 5752" transform="translate(-59.082 -69.373)">
+      <path id="Caminho_7091" data-name="Caminho 7091" d="M105.88,90.912a51.664,51.664,0,0,1-42.6-39.987L26.556,56.287c7.781,36.6,39.26,63.781,79.324,67.582Z" transform="translate(71.363 40.448)" fill="#528b3e"></path>
+      <path id="Caminho_7092" data-name="Caminho 7092" d="M126.451,56.019V88.985c25.718,4.173,44.384,25.5,44.384,52.426,0,30.435-23.276,53.542-53.68,53.542-30.768,0-53.663-23.107-53.663-53.542q0-2.79.257-5.492l-37.414,5.459v.4c0,48.406,39.782,85.813,90.821,85.813,50.675,0,90.457-37.406,90.457-85.813,0-45.753-35.006-81.5-81.161-85.756" transform="translate(69.748 76.553)" fill="#1f293f"></path>
+    </g>
+  </g>
+</svg>
